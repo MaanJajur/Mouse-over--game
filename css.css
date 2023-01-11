@@ -1,0 +1,31 @@
+body{
+    font-size: 16px;
+    background-color: black;
+}
+
+
+button{
+background-color: red;
+border: none;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px;
+cursor: pointer;
+background-color: rgb(0, 255, 60);
+}
+
+button{
+padding-left: 25px;
+}
+
+button{
+    border-radius: 50px;
+    width: 90px;
+    height: 80px;
+
+}
+
+
